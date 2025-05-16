@@ -38,3 +38,14 @@ The results will be written to the `results/` directory.
 python main.py
 ```
 
+# Citation & License
+Please use the following citations if you found our work to be useful in your work.
+```
+@inproceedings{plsemanticsbench,
+    title={PLSemanticsBench: Large Language Models are Bad Programming Language Interpreters},
+    author={Jiyang Zhang and Aditya Thimmaiah and Samuel Yuan and Junyi Jessy Li and Milos Gligoric},
+    booktitle={},
+    year={2025},
+    url={}
+}
+```
