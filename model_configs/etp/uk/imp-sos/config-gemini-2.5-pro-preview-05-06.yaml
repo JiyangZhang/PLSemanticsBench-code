@@ -1,0 +1,2 @@
+max_completion_tokens: 32768
+thinking_budget: 16384
